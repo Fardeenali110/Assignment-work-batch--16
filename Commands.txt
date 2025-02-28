@@ -1,0 +1,16 @@
+Add Commands
+
+
+git add f name  
+git commit -m "Updated f name"  
+git push origin main  
+
+
+
+delete commands
+
+git rm script.js  
+git commit -m "Deleted script.js"  
+git push origin main  
+
+
